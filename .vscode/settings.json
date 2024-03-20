@@ -1,0 +1,7 @@
+{
+	"phpunit.args": [
+		"--testdox",
+		"--display-deprecations",
+		"--display-errors",
+	],
+}

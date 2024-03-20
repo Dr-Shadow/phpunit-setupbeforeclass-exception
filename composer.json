@@ -1,0 +1,19 @@
+{
+    "name": "blademf/phpunit-setup-exception",
+    "type": "library",
+    "require": {
+        "phpunit/phpunit": "^11.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Blademf\\PhpUnitSetupException\\": "src/",
+            "Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vladislav Kosev",
+            "email": "vladislav.kosev@clevertogether.com"
+        }
+    ]
+}
